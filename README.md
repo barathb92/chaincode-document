@@ -163,7 +163,7 @@ messageChaincodeEvent {
 
 <td width="371" bgcolor="#f3f6f6" style="border-top: 1px solid #e1e4e5; border-bottom: 1px solid #e1e4e5; border-left: 1px solid #e1e4e5; border-right: none; padding-top: 0in; padding-bottom: 0.08in; padding-left: 0.16in; padding-right: 0in">
 
-<font size="2" style="font-size: 9pt">String form of </font><span style="display: inline-block; border: 1px solid #e1e4e5; padding: 0.01in"><font color="#e74c3c"><font face="Consolas, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Monaco, Courier New, Courier, monospace"><font size="1" style="font-size: 7pt">peer.version</font></font></font></span><font size="2" style="font-size: 9pt"> defined in </font><font color="#000080"><span lang="zxx"> core.yaml (https://github.com/hyperledger/fabric/blob/master/peer/core.yaml)</span></font>
+<font size="2" style="font-size: 9pt">String form of </font><span style="display: inline-block; border: 1px solid #e1e4e5; padding: 0.01in"><font color="#e74c3c"><font face="Consolas, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Monaco, Courier New, Courier, monospace"><font size="1" style="font-size: 7pt">peer.version</font></font></font></span><font size="2" style="font-size: 9pt"> defined in </font><font color="#000080"><span lang="zxx">core.yaml (https://github.com/hyperledger/fabric/blob/master/peer/core.yaml)</span></font>
 
 </td>
 
@@ -173,7 +173,7 @@ messageChaincodeEvent {
 
 <td width="262" bgcolor="#ffffff" style="border-top: 1px solid #e1e4e5; border-bottom: 1px solid #e1e4e5; border-left: 1px solid #e1e4e5; border-right: none; padding-top: 0in; padding-bottom: 0.08in; padding-left: 0.16in; padding-right: 0in">
 
-<span style="display: inline-block; border: 1px solid #e1e4e5; padding: 0.01in"><font color="#e74c3c"><font face="Consolas, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Monaco, Courier New, Courier, monospace"><font size="1" style="font-size: 7pt">`node start`</font></font></font></span>
+<span style="display: inline-block; border: 1px solid #e1e4e5; padding: 0.01in"><font color="#e74c3c"><font face="Consolas, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Monaco, Courier New, Courier, monospace"><font size="1" style="font-size: 7pt">node start</font></font></font></span>
 
 </td>
 
